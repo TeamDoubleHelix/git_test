@@ -8,11 +8,8 @@ class AnimalScreen extends StatefulWidget {
 
 class AnimalScreenState extends State<AnimalScreen> {
 
-<<<<<<< HEAD
   var b;
-=======
   var a;
->>>>>>> animalScreen
 
   @override
   Widget build(BuildContext context) {
