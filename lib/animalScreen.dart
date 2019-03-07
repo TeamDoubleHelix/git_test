@@ -7,6 +7,9 @@ class AnimalScreen extends StatefulWidget {
 }
 
 class AnimalScreenState extends State<AnimalScreen> {
+
+  var a;
+
   @override
   Widget build(BuildContext context) {
     return Container(
