@@ -8,11 +8,7 @@ class AnimalScreen extends StatefulWidget {
 
 class AnimalScreenState extends State<AnimalScreen> {
 
-<<<<<<< HEAD
-  var b = 30;
-=======
   var b = 24;
->>>>>>> 73fb99506728b3dc685ccc4b1c3868599182c216
   var a;
 
   @override
